@@ -22,7 +22,7 @@
 
 ## Projects
 
-* [Projects Overview](projects/projects-overview.md)
+* [Overview](projects/overview.md)
 * [Front-End Projects](projects/front-end-projects/README.md)
   * [Creating a Front-End Project](projects/front-end-projects/creating-a-front-end-project.md)
 * [Package Projects](projects/package-projects/README.md)
@@ -30,7 +30,14 @@
 * [Files](projects/files/README.md)
   * [Class](projects/files/class.md)
   * [Web Component](projects/files/web-component.md)
-  * [Page Controller](projects/files/page-controller.md)
+
+## Web Development Kit
+
+* [Overview](web-development-kit/overview.md)
+
+## Compilers
+
+* [Overview](compilers/overview.md)
 
 ## Packages
 
