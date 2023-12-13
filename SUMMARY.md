@@ -1,24 +1,26 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Getting started
 
+* [Introduction](README.md)
 * [Getting Access](getting-started/getting-access.md)
-* [Workspace Overview](getting-started/workspace-overview/README.md)
-  * [Upper Toolbar](getting-started/workspace-overview/upper-toolbar/README.md)
-    * [Home](getting-started/workspace-overview/upper-toolbar/home.md)
-  * [Client Area](getting-started/workspace-overview/client-area/README.md)
-    * [Directory Manager](getting-started/workspace-overview/client-area/directory-manager.md)
-    * [Component Palette](getting-started/workspace-overview/client-area/component-palette.md)
-    * [Design Frame](getting-started/workspace-overview/client-area/design-frame.md)
-    * [Document Inspector](getting-started/workspace-overview/client-area/document-inspector.md)
-    * [Node Inspector](getting-started/workspace-overview/client-area/node-inspector.md)
-    * [Stylesheets Inspector](getting-started/workspace-overview/client-area/stylesheets-inspector.md)
-    * [Font settings dialog](getting-started/workspace-overview/client-area/font-settings-dialog.md)
-    * [Color dialog](getting-started/workspace-overview/client-area/color-dialog.md)
-    * [Icon dialog](getting-started/workspace-overview/client-area/icon-dialog.md)
-  * [Bottom Bar](getting-started/workspace-overview/bottom-bar.md)
+
+## Workspace
+
+* [Overview](workspace/overview/README.md)
+  * [Upper Toolbar](workspace/overview/upper-toolbar/README.md)
+    * [Home](workspace/overview/upper-toolbar/home.md)
+  * [Client Area](workspace/overview/client-area/README.md)
+    * [Directory Manager](workspace/overview/client-area/directory-manager.md)
+    * [Component Palette](workspace/overview/client-area/component-palette.md)
+    * [Design Frame](workspace/overview/client-area/design-frame.md)
+    * [Document Inspector](workspace/overview/client-area/document-inspector.md)
+    * [Node Inspector](workspace/overview/client-area/node-inspector.md)
+    * [Stylesheets Inspector](workspace/overview/client-area/stylesheets-inspector.md)
+    * [Font settings dialog](workspace/overview/client-area/font-settings-dialog.md)
+    * [Color dialog](workspace/overview/client-area/color-dialog.md)
+    * [Icon dialog](workspace/overview/client-area/icon-dialog.md)
+  * [Bottom Bar](workspace/overview/bottom-bar.md)
 
 ## Projects
 

@@ -6,7 +6,7 @@ description: Welcome to CHEMISWEB Studio Documentation
 
 ## What is CHEMISWEB Studio?
 
-CHEMISWEB Studio is an integrated development environment (IDE) for the creation and design of pages, sites and web applications. It offers the user a wide range of component libraries, visual editing tools, and code writing. It also provides a specific visual [**Design Frame**](getting-started/workspace-overview/client-area/design-frame.md) for HTML documents and XML fragments (pages, modals, dialogs) under the philosophy of **Drag and Drop** elements and components onto it.
+CHEMISWEB Studio is an integrated development environment (IDE) for the creation and design of pages, sites and web applications. It offers the user a wide range of component libraries, visual editing tools, and code writing. It also provides a specific visual [**Design Frame**](workspace/overview/client-area/design-frame.md) for HTML documents and XML fragments (pages, modals, dialogs) under the philosophy of **Drag and Drop** elements and components onto it.
 
 {% embed url="https://youtu.be/kgpsfGCBmqE" %}
 
