@@ -1,6 +1,6 @@
 # Getting Access
 
-To access the registration/login form, make click on the **Sign in** button located in the [**Upper Toolbar**](../workspace/overview/upper-toolbar/), right corner of the screen.
+To access the registration/login form, make click on the **Sign in** button located in the [**Upper Toolbar**](../workspace/toolbars/upper-toolbar/), right corner of the screen.
 
 ## Create new account
 

@@ -7,20 +7,22 @@
 
 ## Workspace
 
-* [Overview](workspace/overview/README.md)
-  * [Upper Toolbar](workspace/overview/upper-toolbar/README.md)
-    * [Home](workspace/overview/upper-toolbar/home.md)
-  * [Client Area](workspace/overview/client-area/README.md)
-    * [Directory Manager](workspace/overview/client-area/directory-manager.md)
-    * [Component Palette](workspace/overview/client-area/component-palette.md)
-    * [Design Frame](workspace/overview/client-area/design-frame.md)
-    * [Document Inspector](workspace/overview/client-area/document-inspector.md)
-    * [Node Inspector](workspace/overview/client-area/node-inspector.md)
-    * [Stylesheets Inspector](workspace/overview/client-area/stylesheets-inspector.md)
-    * [Font settings dialog](workspace/overview/client-area/font-settings-dialog.md)
-    * [Color dialog](workspace/overview/client-area/color-dialog.md)
-    * [Icon dialog](workspace/overview/client-area/icon-dialog.md)
-  * [Bottom Bar](workspace/overview/bottom-bar.md)
+* [Overview](workspace/overview.md)
+* [Toolbars](workspace/toolbars/README.md)
+  * [Upper Toolbar](workspace/toolbars/upper-toolbar/README.md)
+    * [Home](workspace/toolbars/upper-toolbar/home.md)
+* [Panels](workspace/panels/README.md)
+  * [Design Frame](workspace/panels/design-frame.md)
+  * [Directory Manager](workspace/panels/directory-manager.md)
+  * [Component Palette](workspace/panels/component-palette.md)
+  * [Stylesheets Inspector](workspace/panels/stylesheets-inspector.md)
+  * [Node Inspector](workspace/panels/node-inspector.md)
+  * [Document Inspector](workspace/panels/document-inspector.md)
+  * [Client Area](workspace/panels/client-area.md)
+* [Dialogs](workspace/dialogs/README.md)
+  * [Icon dialog](workspace/dialogs/icon-dialog.md)
+  * [Color dialog](workspace/dialogs/color-dialog.md)
+  * [Font settings dialog](workspace/dialogs/font-settings-dialog.md)
 
 ## Projects
 
