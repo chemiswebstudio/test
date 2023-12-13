@@ -1,6 +1,6 @@
 # Getting Access
 
-To access the registration/login form, make click on the **Sign in** button located in the [**Upper Toolbar**](../workspace/toolbars/upper-toolbar/), right corner of the screen.
+To access the registration/login form, make click on the **Sign in** button located in the **Menubar**, right top corner of the screen.
 
 ## Create new account
 
@@ -14,7 +14,7 @@ In the registration form it is required to enter email and password, a valid ema
 
 ## Sign in
 
-To access the system you must enter the email and password that you provided in the previous registration.
+To access the system you must enter the email and password that you provided in the previous registration process.
 
 <figure><img src="../.gitbook/assets/2023-02-28 13 09 26.jpg" alt=""><figcaption><p>Sign in form</p></figcaption></figure>
 
