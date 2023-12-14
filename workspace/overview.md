@@ -6,7 +6,7 @@ The CHEMISWEB Studio workspace is designed to provide developers with an intuiti
 
 ### **1. Menubar**
 
-The menu bar provides organized access to the following menus: File, Tools, Settings, Packages, Help, and the Home tools tab. On the far right, you will find the Sign in/Sign out button and the email address of the authenticated user.
+The menu bar provides organized access to the following menus: File, Tools, Settings, Packages and Help, also contain the Home tools tab. On the far right, you will find the Sign in/Sign out button and the email address of the authenticated user.
 
 ### **2.** Toolbars
 
@@ -14,7 +14,7 @@ The toolbars provides access to a wide range of settings and tools for managing 
 
 ### **3. Client Area**
 
-The client area is the main work area, where users can edit their files of the project. Includes the panels and dialogs displayed in the area.
+The client area is the main work area, where you can edit the files of your project. Includes the Panels and Dialogs displayed in the area.
 
 ### **4. Footer**
 

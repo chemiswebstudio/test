@@ -1,6 +1,6 @@
 # Font
 
-En la barra de herramientas Font encontrará varias opciones para personalizar el estilo y apariencia de la fuente de su texto. Puede ajustar el tipo de fuente y tamaño, convertir el texto a mayúsculas o minúsculas, capitalizar la primera letra de las palabras o de la oración, formato negrita, cursiva, subrayado, tachado, sobrescrito o subíndice. Además, también puede cambiar el color de la fuente y el color de fondo.&#x20;
+En la barra de herramientas Font encontrará varias opciones para personalizar el estilo y apariencia de la fuente de sus textos/elementos. Puede ajustar el tipo de fuente y tamaño, convertir el texto a mayúsculas o minúsculas, capitalizar la primera letra de las palabras o de la oración, aplicar formato negrita, cursiva, subrayado, tachado, sobrescrito o subíndice. Además, también puede cambiar el color de la fuente y el color de fondo.&#x20;
 
 {% hint style="warning" %}
 Esta barra de herramientas contiene comandos sobrecargados, para conocer mas detalles puede consultar la pagina **Seleccion de bloque y comandos sobrecargados**.

@@ -6,7 +6,7 @@ description: Welcome to CHEMISWEB Studio Documentation
 
 ## What is CHEMISWEB Studio?
 
-CHEMISWEB Studio is a Web Application Rapid Development (WARD) IDE for the creation and design of pages, sites and web applications. It offers a wide range of components libraries, visual editing tools, and code writing. It also provides a specific visual [**Design Frame**](workspace/panels/design-frame/) for HTML documents (pages, modals, dialogs) under the philosophy of **Drag and Drop** elements and components onto it.
+CHEMISWEB Studio is a Web Application Rapid Development (WARD) Integrated Development Environment (IDE) designed for the creation and design of pages, sites and web applications. It offers an extensive range of component libraries, intuitive visual editing tools, and robust code-writing capabilities, making it a comprehensive solution for developers. Additionally, it includes a dedicated visual Design Frame specifically crafted for HTML documents, including pages, frames, and dialogs. Featuring a user-friendly Drag-and-Drop interface where users can incorporate elements and components into their projects pages.
 
 {% embed url="https://youtu.be/kgpsfGCBmqE" %}
 A video focus on show the power of WARD
@@ -14,7 +14,7 @@ A video focus on show the power of WARD
 
 ## What is WARD?
 
-Web Application Rapid Development (WARD) is a methodology that focuses on efficiency and speed and allow developers to build rapid prototypes and functional versions of web applications. This approach aims to accelerate the development cycle, from the conception of the idea to the implementation and deployment of the web application. Is supported by tools and technologies that facilitate the build and continuous iteration of your project.
+Web Application Rapid Development (WARD) is a methodology that focuses on efficiency and speed. Allow developers to build rapid prototypes and functional versions of web applications. This approach aims to accelerate the development cycle, from the conception of the idea to the implementation and deployment of the web application. Is supported by tools and technologies that facilitate the build and continuous iteration of your project.
 
 The fundamental principles of WARD include:
 
