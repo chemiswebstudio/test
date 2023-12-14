@@ -21,7 +21,6 @@
   * [Stylesheets Inspector](workspace/panels/stylesheets-inspector.md)
   * [Node Inspector](workspace/panels/node-inspector.md)
   * [Document Inspector](workspace/panels/document-inspector.md)
-  * [Client Area](workspace/panels/client-area.md)
 * [Dialogs](workspace/dialogs/README.md)
   * [Icon dialog](workspace/dialogs/icon-dialog.md)
   * [Color dialog](workspace/dialogs/color-dialog.md)
