@@ -30,3 +30,7 @@ Esta barra de herramientas contiene comandos sobrecargados, para conocer mas det
 * **Line height**: Show a menu list that allows you to select one option or enter a custom value to set height of a line box.
 * **Float**: Show a menu list that allows you to select a value and places the selected element on the left or right side of its container, allowing text and inline elements to wrap around it. Also, it contains a sub-menu list for the **Clear** property and its values.
 * **Columns**: Show a menu list that allows you to select a number of columns. For set more columns and options, open the Columns generator dialog at the end of the list.
+* **Flow control**: Show a menu list with sub-menus for the properties White space, Word break, Line break and Text overflow. These properties are used to manage how text is displayed within an element, including whitespace handling, how lines of text are broken, and how text overflow is handled.
+* **Spacing and indentation**: Show a menu list with sub-menus for the properties Word spacing, Letter spacing and Text indent. These properties are used to control the spacing between words and letters, and the indentation of text.
+* **Direction**: Show a menu list that allows you to change the direction of text, table columns, and horizontal overflow.
+* **Orientation and writing mode**: Show a menu list with sub-menus for the properties Text orientation and Writing mode. These properties are used to control the orientation of characters and the direction in which lines of text are laid out.
