@@ -9,10 +9,10 @@
 
 * [Overview](workspace/overview.md)
 * [Toolbars](workspace/toolbars/README.md)
-  * [Project](workspace/toolbars/project.md)
-  * [Font](workspace/toolbars/font.md)
-  * [Paragraph](workspace/toolbars/paragraph.md)
-  * [Block](workspace/toolbars/block.md)
+  * [Project toolbar](workspace/toolbars/project-toolbar.md)
+  * [Font toolbar](workspace/toolbars/font-toolbar.md)
+  * [Paragraph toolbar](workspace/toolbars/paragraph-toolbar.md)
+  * [Block toolbar](workspace/toolbars/block-toolbar.md)
 * [Panels](workspace/panels/README.md)
   * [Design Frame](workspace/panels/design-frame/README.md)
     * [Floating command bar](workspace/panels/design-frame/floating-command-bar.md)
@@ -25,6 +25,8 @@
   * [Icon dialog](workspace/dialogs/icon-dialog.md)
   * [Color dialog](workspace/dialogs/color-dialog.md)
   * [Font settings dialog](workspace/dialogs/font-settings-dialog.md)
+  * [Border radius dialog](workspace/dialogs/border-radius-dialog.md)
+  * [Box shadow dialog](workspace/dialogs/box-shadow-dialog.md)
 
 ## Projects
 
