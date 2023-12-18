@@ -1,6 +1,6 @@
 # Component Palette
 
-En la paleta de componentes se pueden encontrar una amplia variedad de elementos nativos HTML, Web Components, componentes basados en clases, utilidades e iconos para utilizar en sus proyectos. Se pueden arrastrar y soltar en el Marco de Diseño para configurarlos y personalizarlos. La paleta de componentes también permite la visualización de paquetes de componentes que hayan sido creados y activados en un [Proyecto Paquete](../../projects/package-projects/).
+En la paleta de componentes se pueden encontrar una amplia variedad de elementos nativos HTML, Web Components, componentes basados en clases, utilidades e iconos para utilizar en sus proyectos. Se pueden arrastrar y soltar en el Marco de Diseño para configurarlos y personalizarlos. La paleta de componentes también permite la visualización de paquetes de componentes que hayan sido creados y activados en un [Proyecto Paquete](../../projects/package-projects.md).
 
 Cuando arrastre y suelte un componente o utilidad en el Marco de Diseño, se ejecutará automáticamente el proceso de importación de sus dependencias. Estas dependencias se guardarán en la ruta _<mark style="background-color:yellow;">/assets/libs/</mark>_ del directorio de archivos del proyecto y se referenciarán automáticamente en el documento HTML mediante las etiquetas `<link>` para los archivos CSS y `<script>` para los archivos Javascript.
 

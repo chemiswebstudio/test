@@ -31,10 +31,8 @@
 ## Projects
 
 * [Overview](projects/overview.md)
-* [Front-End Projects](projects/front-end-projects/README.md)
-  * [Creating a Front-End Project](projects/front-end-projects/creating-a-front-end-project.md)
-* [Package Projects](projects/package-projects/README.md)
-  * [Creating a Package Project](projects/package-projects/creating-a-package-project.md)
+* [Front-End Project](projects/front-end-project.md)
+* [Package Projects](projects/package-projects.md)
 * [Files](projects/files/README.md)
   * [Class](projects/files/class.md)
   * [Web Component](projects/files/web-component.md)
