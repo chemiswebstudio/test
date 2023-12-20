@@ -6,7 +6,7 @@ description: Welcome to CHEMISWEB Studio Documentation
 
 ## What is CHEMISWEB Studio?
 
-CHEMISWEB Studio is a Web Application Rapid Development (WARD) Integrated Development Environment (IDE) designed for the creation and design of pages, sites and web applications. It offers an extensive range of component libraries, intuitive visual editing tools, and robust code-writing capabilities, making it a comprehensive solution for developers. Additionally, it includes a dedicated visual Design Frame specifically crafted for HTML documents, including pages, frames, and dialogs. Featuring a user-friendly Drag-and-Drop interface where users can incorporate elements and components into their projects pages.
+CHEMISWEB Studio is a Web Application Rapid Development (WARD) [IDE](https://en.wikipedia.org/wiki/Integrated\_development\_environment), built to create and design pages, sites and web applications. It offers an extensive range of component libraries, intuitive visual editing tools, and robust code-writing capabilities, making it a comprehensive solution for developers. Additionally, it includes a dedicated visual Design Frame specifically crafted for HTML documents (pages, frames, and dialogs), featuring a user-friendly Drag-and-Drop interface where users can incorporate elements and components into their documents.
 
 {% embed url="https://youtu.be/kgpsfGCBmqE" %}
 A video focus on show the power of WARD
@@ -14,19 +14,16 @@ A video focus on show the power of WARD
 
 ## What is WARD?
 
-Web Application Rapid Development (WARD) is a methodology that focuses on efficiency and speed. Allow developers to build rapid prototypes and functional versions of web applications. This approach aims to accelerate the development cycle, from the conception of the idea to the implementation and deployment of the web application. Is supported by tools and technologies that facilitate the build and continuous iteration of your project.
+WARD (Web Application Rapid Development) represents a forward-thinking methodology in web development, emphasizing the rapid creation of web pages, sites, and applications. Inspired by the principles of Rapid Application Development (RAD) exemplified by tools like Delphi and Visual Studio, WARD offers a systematic and efficient approach to web development. This methodology prioritizes agility and speed in the entire development lifecycle, from initial prototyping to final deployment. The fundamental principles of WARD include:
 
-The fundamental principles of WARD include:
-
-1. **Rapid Prototyping:** The rapid creation of prototypes is encouraged to visualize and validate concepts before committing to full development.
-2. **Continuous Iteration:** WARD promotes short development cycles that allow quick adjustments based on changing feedback and requirements.
-3. **Integrated Tools:** WARD relies on integrated tools, frameworks, and libraries that facilitate the efficient construction of web applications.
-4. **Modular Approach:** The creation of reusable components and modules is encouraged to accelerate development and maintain a clean and easily maintainable codebase.
-5. **Automation:** WARD embraces automation practices for repetitive tasks, testing, and deployment, enhancing efficiency and the quality of the development process.
+* **Modular Development**: WARD employs a modular approach with components, frames, and dialogs, ensuring a well-organized and scalable application structure.
+* **Event-Driven Programming**: Strong emphasis on event-driven programming, allowing developers to create responsive and interactive web applications.
+* **Visual Editing Tools**: WARD provides powerful visual editing tools for customizing elements (border radius, fonts, shadows), generating corresponding code effortlessly.
+* **Automated Compilation**: WARD streamlines workflows with automated compilation and packaging processes, enhancing efficiency and reducing development complexities.
 
 ## First steps
 
-To use all the features of CHEMISWEB Studio, it is necessary to create a user account. To create an account, click the **Sign in** button, then click **Create new account** and provide an email address and password (also you can [Getting Access](getting-started/getting-access.md) via Google account). Once logged in, you can click on the FILE menu button and create a new Project.
+To use all the features of CHEMISWEB Studio, it is necessary to create a user account. To create an account, click the **Sign in** button, then click **Create new account** and provide an email address and password (also you can [Getting Access](getting-started/getting-access.md) via Google account). Once logged in, you can click on the **FILE** menu button and create a new project.
 
 ## System Requirements
 

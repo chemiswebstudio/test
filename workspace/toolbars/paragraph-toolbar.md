@@ -1,4 +1,4 @@
-# Paragraph
+# Paragraph toolbar
 
 La barra de herramientas Paragraph cuenta con una amplia variedad de comandos que permiten personalizar la apariencia de tus párrafos y bloques de texto. Algunos de los más comunes incluyen la posibilidad de alinear el texto a la izquierda, derecha, centrado o justificado, ajustar la sangría de la primera línea del párrafo, la sangría del párrafo completo o una combinación de ambas, modificar el espaciado entre líneas y el espaciado antes y después del párrafo, elegir un interlineado sencillo, doble o personalizado, establecer tabulaciones para crear columnas en el documento y crear listas con viñetas o numeradas.
 
@@ -15,6 +15,8 @@ Esta barra de herramientas contiene comandos sobrecargados, para conocer mas det
 <figure><img src="../../.gitbook/assets/toolbars-paragraph-overloaded.jpg" alt=""><figcaption><p>Paragraph toolbar with commands overloaded</p></figcaption></figure>
 
 </div>
+
+### **Ccomandos de la barra:**
 
 * **Unordered list**: Create an unordered list of items, typically rendered as a bulleted list.
 * **Ordered list**: Create an ordered list of items, typically rendered as a numbered list.

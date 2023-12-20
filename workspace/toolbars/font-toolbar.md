@@ -1,9 +1,9 @@
-# Font
+# Font toolbar
 
-En la barra de herramientas Font encontrará varios comandos para personalizar el estilo y apariencia de la fuente de sus textos/elementos. Puede ajustar el tipo de fuente y tamaño, convertir el texto a mayúsculas o minúsculas, capitalizar la primera letra de las palabras o de la oración, aplicar formato negrita, cursiva, subrayado, tachado, sobrescrito o subíndice. Además, también puede cambiar el color de la fuente y el color de fondo.&#x20;
+En la barra de herramientas **Font** encontrará comandos para modificar aspectos tipograficos de la seleccion presente en el documento. Si mantiene seleccionado un bloque en el **Inspector de Hojas de Estilos**, estos comandos modificaran directamente las declaraciones dentro del bloque en lugar de la seleccion del documento.&#x20;
 
 {% hint style="warning" %}
-Esta barra de herramientas contiene comandos sobrecargados, para conocer mas detalles puede consultar la pagina **Seleccion de bloque y comandos sobrecargados**.
+Para conocer mas detalles del comportamiento sobrecargado de los comandos consulte la pagina **Seleccion de bloque y comandos sobrecargados**.
 {% endhint %}
 
 <div>
@@ -16,7 +16,9 @@ Esta barra de herramientas contiene comandos sobrecargados, para conocer mas det
 
 </div>
 
-* **Font family**: Show a list of generic font family names. For select more fonts and options, open the [Font settings dialog](../dialogs/font-settings-dialog.md) at the end of the list.
+### Comandos de la barra:
+
+* **Font family**: Establece el nombre de fuente. Puede ademas desplegar el dialogo [Font settings dialog](../dialogs/font-settings-dialog.md) para la configuracion de otras opciones de fuente (font size, line height, font weight, ...). In overloaded mode, this command set "`font`" or "`font-family`" property in CSS selected block.
 * **Font size**: Set the size of the font. You can select one option of the list, or enter a custom value.
 * **Font size increment**: Increase in one the value of the font size.
 * **Font size decrement**: Decrease in one the value of the font size.
@@ -26,7 +28,7 @@ Esta barra de herramientas contiene comandos sobrecargados, para conocer mas det
 * **Underline**: Apply underline formatting.
 * **Line through**: Apply the line format through the middle.
 * **Overline**: Apply the line format above.
-* **Subscript**: Specify inline text which should be displayed as subscript for solely typographical reasons. Subscripts are typically rendered with a lowered baseline using smaller text.
+* **Subscript**: Specify inline text which should be displayed as subscript for solely typographical reasons. Subscripts are typically rendered with a lowered baseline using smaller text. Este comando no presenta sobrecarga.
 * **Superscript**: Specify inline text which is to be displayed as superscript for solely typographical reasons. Superscripts are usually rendered with a raised baseline using smaller text.
 * **Color**: Show a picker for select the color value of an element's text and text decorations. For more colors and options, open the [Color dialog](../dialogs/color-dialog.md) at the end of the picker.
 * **Background color**: Show a picker for select the background color value. For more colors and options, open the [Color dialog](../dialogs/color-dialog.md) at the end of the picker.
