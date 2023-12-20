@@ -1,9 +1,13 @@
 # Paragraph toolbar
 
-La barra de herramientas Paragraph cuenta con una amplia variedad de comandos que permiten personalizar la apariencia de tus párrafos y bloques de texto. Algunos de los más comunes incluyen la posibilidad de alinear el texto a la izquierda, derecha, centrado o justificado, ajustar la sangría de la primera línea del párrafo, la sangría del párrafo completo o una combinación de ambas, modificar el espaciado entre líneas y el espaciado antes y después del párrafo, elegir un interlineado sencillo, doble o personalizado, establecer tabulaciones para crear columnas en el documento y crear listas con viñetas o numeradas.
+En la barra de herramientas **Paragraph** encontrará comandos para afectar aspectos de los parrafos de la seleccion presente en el documento. Si mantiene seleccionado un bloque en el **Inspector de Hojas de Estilos**, estos comandos modificaran directamente las declaraciones dentro del bloque en lugar de la seleccion del documento
+
+#### Parrafos de la seleccion:
+
+Los parrafos de la seleccion son todos los elementos de nivel de bloque, que estan contenidos total o parcialmente en la seleccion realizada por el usuario dentro del documento, incluyendo los bloques anonimos. Para mayor comprension de estos conceptos, vease el siguiente articulo: [Visual Formatting Model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual\_formatting\_model).
 
 {% hint style="warning" %}
-Esta barra de herramientas contiene comandos sobrecargados, para conocer mas detalles puede consultar la pagina **Seleccion de bloque y comandos sobrecargados**.
+Para conocer mas detalles del comportamiento sobrecargado de los comandos consulte la pagina **Seleccion de bloque y comandos sobrecargados**.
 {% endhint %}
 
 <div>
@@ -16,9 +20,9 @@ Esta barra de herramientas contiene comandos sobrecargados, para conocer mas det
 
 </div>
 
-### **Ccomandos de la barra:**
+### **Comandos de la barra:**
 
-* **Unordered list**: Create an unordered list of items, typically rendered as a bulleted list.
+* **Unordered list**: Create an unordered list of items, con los parrafos de la seleccion del documento, typically rendered as a bulleted list.
 * **Ordered list**: Create an ordered list of items, typically rendered as a numbered list.
 * **List type**: Change the type of the list.
 * **Indent decrease**: Move the paragraph to the right of the margin.
