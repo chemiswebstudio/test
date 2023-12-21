@@ -32,3 +32,4 @@ Para conocer mas detalles del comportamiento sobrecargado de los comandos consul
 * **Superscript**: Specify inline text which is to be displayed as superscript for solely typographical reasons. Superscripts are usually rendered with a raised baseline using smaller text.
 * **Color**: Show a picker for select the color value of an element's text and text decorations. For more colors and options, open the [Color dialog](../dialogs/color-dialog.md) at the end of the picker.
 * **Background color**: Show a picker for select the background color value. For more colors and options, open the [Color dialog](../dialogs/color-dialog.md) at the end of the picker.
+* **Text shadow**:&#x20;
