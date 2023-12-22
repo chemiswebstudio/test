@@ -1,6 +1,6 @@
 # Toolbars
 
-Las barras de herramientas contienen botones asociados a comandos con acciones especificas. Estos botones pueden ejecutar acciones, desplegar menus de seleccion, cajas de edicion de valores y dialogos.
+Cada barra de herramientas contiene botones asociados a comandos. Estos botones pueden ejecutar acciones, desplegar menus de seleccion, cajas de edicion de valores y dialogos.
 
 <div align="center" data-full-width="false">
 

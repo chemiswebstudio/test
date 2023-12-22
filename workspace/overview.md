@@ -10,7 +10,7 @@ The menu bar provides organized access to the following menus: File, Tools, Sett
 
 ### **2.** Toolbars
 
-The toolbars provides access to a wide range of settings and tools for managing and editing, including options for creating files, saving, compile projects, customizing, etc.
+The toolbars provides access to a wide range of commands and tools, including options for creating and saving files, compile projects, customizing elements, etc.
 
 ### **3. Client Area**
 
