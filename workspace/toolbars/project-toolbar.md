@@ -1,6 +1,6 @@
 # Project toolbar
 
-La barra de herramientas **Project** incluye varias opciones de gestión de proyectos.
+La barra de herramientas **Project** contiene opciones de gestión de proyectos.
 
 <figure><img src="../../.gitbook/assets/toolbars-projects.jpg" alt=""><figcaption><p>Project toolbar</p></figcaption></figure>
 
