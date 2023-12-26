@@ -32,7 +32,7 @@ Para conocer mas detalles del comportamiento sobrecargado de los comandos consul
 * **Superscript**: This command transforms text to a superscript using the HTML `<sup>` tag. Superscripts are usually rendered with a raised baseline using smaller text. It does not perform any action in overload mode.
 * **Color**: This command sets/modifies the `color` property. The action displays a color picker for selecting the color value of an element's text and text decorations. You can also open the [Color dialog](../dialogs/color-dialog.md) to configure other color options. In overload mode, it sets/modifies the `color` property within the selected CSS block.
 * **Background color**: This command sets/modifies the `background-color` property, or its shorthand `background` if present. The action displays a color picker for selecting the background color value of an element. You can also open the [Color dialog](../dialogs/color-dialog.md) to configure other background color options. In overload mode, it sets/modifies the `background-color` property, or its shorthand `background`,  within the selected CSS block.
-* **Text shadow**: bla bla bla
+* **Text shadow**: This command sets/modifies the `text-shadow` property. The action displays the Text shadow dialog that allow you adds shadows. In overload mode, it sets/modifies the `text-shadow` property within the selected CSS block.
 
 {% hint style="warning" %}
 **Propiedades shorthand**:
