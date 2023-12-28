@@ -44,3 +44,22 @@ Al crear un nuevo proyecto y seleccionar el scaffolding por defecto, la estructu
 └── index.html
 ```
 {% endcode %}
+
+1. **.compiler:**
+   * Carpeta contenedora de los archivos creados para un perfil de compilacion.
+2. **build:**
+   * Carpeta destinada a almacenar los archivos optimizados y listos para la implementación en producción generados después de compilar tu código fuente.
+3. **libs:**
+   * Carpeta contenedora de las bibliotecas o dependencias externas utilizadas en tu proyecto.
+4. **src:**
+   * Carpeta que generalmente contiene el código fuente de tu aplicación.
+   * Subcarpetas:
+     * **components:** Componentes reutilizables de la interfaz de usuario.
+     * **dialogs:** Archivos relacionados con la creación de cuadros de diálogos y modales.
+     * **frames:** Archivos relacionados con la creación de marcos o estructuras más grandes.
+     * **res:** Recursos como imágenes, fuentes, iconos, etc.
+     * **index.js:** Punto de entrada principal para tu aplicación.
+5. **.front-end-project:**
+   * Un archivo que puede contener configuraciones específicas del proyecto relacionadas con el front-end. Por ejemplo, configuraciones de herramientas de compilación, etc.
+6. **index.html:**
+   * El archivo principal HTML de tu aplicación. Este archivo se carga en el navegador y puede contener la estructura base de tu interfaz de usuario, así como referencias a otros archivos, como scripts y estilos.
