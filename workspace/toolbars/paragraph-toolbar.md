@@ -2,7 +2,7 @@
 
 En la barra de herramientas **Paragraph** encontrará comandos para afectar aspectos de los parrafos de la seleccion presente en el documento. Si mantiene seleccionado un bloque en el **Inspector de Hojas de Estilos**, estos comandos modificaran directamente las declaraciones dentro del bloque en lugar de la seleccion del documento.
 
-#### Parrafos de la seleccion:
+### Parrafos de la seleccion:
 
 Los parrafos de la seleccion son todos los elementos de nivel de bloque, que estan contenidos total o parcialmente en la seleccion realizada por el usuario dentro del documento, incluyendo los bloques anonimos. Para mayor comprension de estos conceptos, vease el siguiente articulo externo: [Visual Formatting Model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual\_formatting\_model).
 

@@ -24,3 +24,23 @@ Recomendamos el uso del [WDK](broken-reference) ya que está construido para bri
 
 </div>
 
+## Scaffolding de un proyecto Front-End
+
+Al crear un nuevo proyecto y seleccionar el scaffolding por defecto, la estructura de archivos y directorios proporcionada como punto de partida es la que se muestra a continuación:
+
+{% code title="Scaffolding by default" fullWidth="false" %}
+```
+├── .compiler
+├── build
+├── libs
+│   └── @wdk
+├── src
+│   ├── components
+│   ├── dialogs
+│   ├── frames
+│   ├── res
+│   └── index.js
+├── .front-end-project
+└── index.html
+```
+{% endcode %}
