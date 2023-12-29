@@ -36,6 +36,7 @@
 * [Files](projects/files/README.md)
   * [Class](projects/files/class.md)
   * [Web Component](projects/files/web-component.md)
+  * [Compiler profile](projects/files/compiler-profile.md)
 
 ## Web Development Kit
 

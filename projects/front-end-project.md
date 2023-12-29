@@ -46,20 +46,22 @@ Al crear un nuevo proyecto y seleccionar el scaffolding por defecto, la estructu
 {% endcode %}
 
 1. **.compiler:**
-   * Carpeta contenedora de los archivos creados para un perfil de compilacion.
+   * Carpeta destinada a contener los archivos creados para un [perfil de compilación](files/compiler-profile.md). Los perfiles de compilación se pueden crear haciendo clic en el botón **New** de la barra de herramientas **Project** y seleccionando el tipo de perfil a crear en la lista de menú de archivos.
 2. **build:**
-   * Carpeta destinada a almacenar los archivos optimizados y listos para la implementación en producción generados después de compilar tu código fuente.
+   * Carpeta destinada a almacenar los archivos optimizados y listos para la implementación en producción generados después de compilar el código fuente del proyecto.
 3. **libs:**
-   * Carpeta contenedora de las bibliotecas o dependencias externas utilizadas en tu proyecto.
-4. **src:**
-   * Carpeta que generalmente contiene el código fuente de tu aplicación.
+   * Carpeta contenedora de las bibliotecas y/o dependencias externas utilizadas en el proyecto.
    * Subcarpetas:
-     * **components:** Componentes reutilizables de la interfaz de usuario.
-     * **dialogs:** Archivos relacionados con la creación de cuadros de diálogos y modales.
-     * **frames:** Archivos relacionados con la creación de marcos o estructuras más grandes.
-     * **res:** Recursos como imágenes, fuentes, iconos, etc.
-     * **index.js:** Punto de entrada principal para tu aplicación.
+     * **@wdk:** Contiene los archivos controladores del [WDK](broken-reference).
+4. **src:**
+   * Carpeta que generalmente contiene el código fuente del proyecto.
+   * Subcarpetas:
+     * **components:** Carpeta destinada a contener componentes reutilizables de la interfaz de usuario.
+     * **dialogs:** Carpeta destinada a contener los archivos relacionados con la creación de cuadros de diálogos y modales.
+     * **frames:** Carpeta destinada a contener los archivos relacionados con la creación de marcos o estructuras más grandes.
+     * **res:** Carpeta destinada a contener los recursos como imágenes, fuentes, iconos, etc.
+     * **index.js:** Archivo JavaScript de punto de entrada principal del proyecto.
 5. **.front-end-project:**
-   * Un archivo que puede contener configuraciones específicas del proyecto relacionadas con el front-end. Por ejemplo, configuraciones de herramientas de compilación, etc.
+   * Archivo contenedor de las configuraciones específicas del proyecto. Contiene informacion pre-configurada ...
 6. **index.html:**
-   * El archivo principal HTML de tu aplicación. Este archivo se carga en el navegador y puede contener la estructura base de tu interfaz de usuario, así como referencias a otros archivos, como scripts y estilos.
+   * Archivo principal HTML del proyecto. Puede contener la estructura base de la interfaz de usuario, referencia al archivo JavaScript de punto de entrada y a otros archivos, como scripts y estilos.
