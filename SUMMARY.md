@@ -34,8 +34,13 @@
 * [Front-End Project](projects/front-end-project.md)
 * [Package Projects](projects/package-projects.md)
 * [Files](projects/files/README.md)
-  * [Class](projects/files/class.md)
-  * [Web Component](projects/files/web-component.md)
+  * [HTML Page](projects/files/html-page.md)
+  * [Stylesheets](projects/files/stylesheets.md)
+  * [JavaScript](projects/files/javascript/README.md)
+    * [Class](projects/files/javascript/class.md)
+    * [Web Component](projects/files/javascript/web-component.md)
+  * [Dialogs](projects/files/dialogs.md)
+  * [Frames](projects/files/frames.md)
   * [Compiler profile](projects/files/compiler-profile.md)
 
 ## Web Development Kit
