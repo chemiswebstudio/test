@@ -41,15 +41,13 @@
     * [Web Component](projects/files/javascript/web-component.md)
   * [Dialogs](projects/files/dialogs.md)
   * [Frames](projects/files/frames.md)
-  * [Compiler profile](projects/files/compiler-profile.md)
+  * [Compiler profiles](projects/files/compiler-profiles/README.md)
+    * [Html Compiler](projects/files/compiler-profiles/html-compiler.md)
+    * [Rollup Compiler](projects/files/compiler-profiles/rollup-compiler.md)
 
 ## Web Development Kit
 
 * [Overview](web-development-kit/overview.md)
-
-## Compilers
-
-* [Overview](compilers/overview.md)
 
 ## Packages
 

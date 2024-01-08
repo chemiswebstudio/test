@@ -1,17 +1,29 @@
 # Overview
 
-En CHEMISWEB Studio, se brinda la capacidad de crear dos tipos distintos de proyectos: Front-End y Paquetes. Cada uno genera automáticamente una estructura de carpetas y archivos predeterminada, la cual se aloja en el directorio raíz asociado a la cuenta del usuario. Cabe destacar que cada proyecto incorpora un archivo con extensión específica que almacena configuraciones esenciales, se recomienda no modificar este archivo, ya que controla el comportamiento de acciones ejecutadas durante el desarrollo del proyecto. Además, se facilita la importación de recursos externos, y tambien la exportacion completa del mismo, posibilitando compartir o respaldar la totalidad de la estructura y configuraciones asociadas.
+En CHEMISWEB Studio se pueden crear dos tipos de proyectos: Front-End y Paquetes. Cada proyecto creado se alojara directamente dentro de un nuevo directorio, con una sub-estructura predeterminada, en el sistema de archivos asociado a la cuenta del usuario.
 
-## Creando y gestionando proyectos
+Dependiendo del tipo de proyecto, en la raiz de su directorio se encontrara un archivo principal con extension `.front-end-project` o `.package-project`, cuya funcion es contener informacion necesaria para poder ser manejado en el IDE.
 
-Al hacer click el botón del menú "File" situado en la barra de menú de CHEMISWEB Studio, se despliegan opciones para administrar proyectos. Puede iniciar la creación de nuevos Proyectos Front-End y Proyectos Paquetes al seleccionar la opción "Create". Asimismo, puede acceder a proyectos previamente guardados mediante la opción "Open". Para eliminar un proyecto, basta con seleccionar el proyecto deseado y ejecutar la opcion "Remove".
+El usuario puede importar recursos externos para los proyectos, asi como realizar la exportacion parcial o total de sus archivos.
+
+### Gestionando proyectos
+
+Para **crear**, **abrir**, **cerrar** o **eliminar** un proyecto, abra el menú **FILE** desde la barra de menús, donde encontrará los botones de comandos asociados a estas acciones, ubicados en el lateral izquierdo de dicho menu:
 
 <div>
 
-<figure><img src="../.gitbook/assets/2023-03-01 01 51 06.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-03-01 01 51 06.jpg" alt=""><figcaption><p>FILE menu / Create </p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/2023-03-01 02 03 51.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-03-01 02 03 51.jpg" alt=""><figcaption><p>FILE menu / Open</p></figcaption></figure>
 
 </div>
+
+{% content-ref url="front-end-project.md" %}
+[front-end-project.md](front-end-project.md)
+{% endcontent-ref %}
+
+{% content-ref url="package-projects.md" %}
+[package-projects.md](package-projects.md)
+{% endcontent-ref %}
