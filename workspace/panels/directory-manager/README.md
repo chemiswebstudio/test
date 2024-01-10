@@ -4,9 +4,13 @@ El Directory Manager permite acceder y gestionar todos los archivos y recursos u
 
 <figure><img src="../../../.gitbook/assets/directory-manager.jpg" alt=""><figcaption><p>Directory Manager</p></figcaption></figure>
 
+## Panel toolbar
+
+Barra de comandos que contiene las acciones detalladas a continuacion:
+
 ### 1. New directory
 
-Ejecuta un dialogo que permite elegir una ruta para crear una nueva carpeta.
+Ejecuta un dialogo que permite elegir una ruta e introducir el nombre para crear una nueva carpeta.
 
 <div align="left">
 
@@ -14,7 +18,7 @@ Ejecuta un dialogo que permite elegir una ruta para crear una nueva carpeta.
 
 </div>
 
-### 2. Upload files
+### 2. **Upload files**
 
 Ejecuta un dialogo que permite elegir una ruta para agregar y subir archivos. Permite subir archivos a múltiples rutas al mismo tiempo, haciendo clic en el botón **Add destination path** se agrega un nuevo campo de selección de directorio.
 
@@ -29,10 +33,10 @@ Ejecuta un dialogo que permite elegir una ruta para agregar y subir archivos. Pe
 </div>
 
 {% hint style="info" %}
-Otra forma para subir ficheros es mediante la acción de arrastrar y soltar el fichero que desea subir sobre el árbol del directorio.
+Otra forma para subir ficheros es mediante la acción de arrastrar y soltar el fichero que desea subir sobre el árbol del directorio. Tambien puede consultar el articulo [Drag & Drog from Directory Manager](drag-and-drop-from-directory-manager.md) para conocer otras acciones del mismo tipo.
 {% endhint %}
 
-### 3. Import from URL
+### 3. **Import from URL**
 
 Ejecuta un dialogo que permite introducir una dirección URL que tenga como destino final un recurso que usted quiera guardar directamente en el directorio de su proyecto.
 
@@ -42,7 +46,7 @@ Ejecuta un dialogo que permite introducir una dirección URL que tenga como dest
 
 </div>
 
-### 4. Copy file to...
+### 4. **Copy file to...**
 
 Ejecuta un dialogo que permite elegir una ruta para copiar el fichero que previamente ha seleccionado en el directorio.
 
@@ -52,7 +56,7 @@ Ejecuta un dialogo que permite elegir una ruta para copiar el fichero que previa
 
 </div>
 
-### 5. Move file to...
+### 5. **Move file to...**
 
 Ejecuta un dialogo que permite elegir una ruta para mover el fichero que previamente ha seleccionado en el directorio.
 
@@ -62,7 +66,7 @@ Ejecuta un dialogo que permite elegir una ruta para mover el fichero que previam
 
 </div>
 
-### 6. Rename
+### 6. **Rename**
 
 Ejecuta un dialogo que permite renombrar el fichero que previamente ha seleccionado en el directorio.
 
@@ -72,10 +76,18 @@ Ejecuta un dialogo que permite renombrar el fichero que previamente ha seleccion
 
 </div>
 
-### 7. Delete
+### 7. **Delete**
 
 Elimina el fichero que previamente ha seleccionado en el directorio.
 
-### 8. Refresh
+### 8. **Refresh**
 
-Actualiza la lista del directorio.
+Actualiza la lista de carpetas y archivos del arbol del directorio.
+
+## Search files box
+
+Caja de busqueda que permite filtrar los archivos del directrorio en base a la palabra introducida. Al introducir una palabra clave en la caja de búsqueda, el sistema realiza un filtrado en tiempo real, mostrando solo los archivos y carpetas que coinciden con la consulta.
+
+## Directory tree
+
+Es la sección visual donde se representan las estructuras de carpetas y archivos del proyecto. Las carpetas se muestran jerárquicamente, con posibilidad de expandirlas o contraerlas para revelar u ocultar su contenido respectivamente.
