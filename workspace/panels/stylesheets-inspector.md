@@ -4,7 +4,7 @@ El Inspector de Estilos permite visualizar de manera clara y organizada la lista
 
 Este panel además cuenta con diversas opciones de personalización, entre ellas se encuentran la posibilidad de insertar un selector específico, insertar regla `@media` para aplicar estilos en diferentes resoluciones de pantalla, crear un nuevo nodo `<style>` en el documento, crear un nuevo fichero CSS, realizar búsquedas mediante el filter, activar el modo linked y desplegar el asistente de inteligencia artificial.
 
-<figure><img src="../../../.gitbook/assets/stylesheet-inspector.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stylesheets-inspector.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 1) CSS blocks
 
@@ -12,19 +12,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis mi vel el
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/element-style.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/element-style.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/node-style.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/node-style.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/css-page-block-style.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/css-page-block-style.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis mi vel el
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/tabs.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tabs.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis mi vel el
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/more-options (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/more-options (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
