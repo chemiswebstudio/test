@@ -14,8 +14,8 @@ Los paneles...
 [document-inspector.md](document-inspector.md)
 {% endcontent-ref %}
 
-{% content-ref url="stylesheets-inspector.md" %}
-[stylesheets-inspector.md](stylesheets-inspector.md)
+{% content-ref url="stylesheets-inspector/" %}
+[stylesheets-inspector](stylesheets-inspector/)
 {% endcontent-ref %}
 
 {% content-ref url="node-inspector.md" %}

@@ -20,7 +20,8 @@
     * [Drag & Drop from Directory Manager](workspace/panels/directory-manager/drag-and-drop-from-directory-manager.md)
   * [Component Palette](workspace/panels/component-palette.md)
   * [Document Inspector](workspace/panels/document-inspector.md)
-  * [Stylesheets Inspector](workspace/panels/stylesheets-inspector.md)
+  * [Stylesheets Inspector](workspace/panels/stylesheets-inspector/README.md)
+    * [Seleccion de bloque](workspace/panels/stylesheets-inspector/seleccion-de-bloque.md)
   * [Node Inspector](workspace/panels/node-inspector.md)
 * [Dialogs](workspace/dialogs/README.md)
   * [Icon dialog](workspace/dialogs/icon-dialog.md)
@@ -28,6 +29,7 @@
   * [Font settings dialog](workspace/dialogs/font-settings-dialog.md)
   * [Border radius dialog](workspace/dialogs/border-radius-dialog.md)
   * [Box shadow dialog](workspace/dialogs/box-shadow-dialog.md)
+  * [CSS Selector dialog](workspace/dialogs/css-selector-dialog.md)
 
 ## Projects
 
