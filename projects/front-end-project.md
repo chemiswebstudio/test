@@ -37,7 +37,7 @@ Al crear un nuevo proyecto y seleccionar el scaffolding por defecto, la estructu
 ```
 {% endcode %}
 
-1. **.compiler:** Carpeta destinada a contener los archivos creados para un [perfil de compilación](broken-reference). Los perfiles de compilación se pueden crear haciendo clic en el botón **New** de la barra de herramientas **Project** y seleccionando el tipo de perfil a crear en la lista de menú de archivos.
+1. **.compiler:** Carpeta destinada a contener los archivos creados para un [perfil de compilación](files/compiler-profiles/). Los perfiles de compilación se pueden crear haciendo clic en el botón **New** de la barra de herramientas **Project** y seleccionando el tipo de perfil a crear en la lista de menú de archivos.
 2. **build: C**arpeta destinada a almacenar los archivos optimizados y listos para la implementación en producción generados después de compilar el código fuente del proyecto.
 3. **libs:** Carpeta contenedora de las bibliotecas y/o dependencias externas utilizadas en el proyecto.
 4. **src:** Carpeta que generalmente contiene el código fuente del proyecto. Puede contener las siguientes subcarpetas:

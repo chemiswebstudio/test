@@ -17,11 +17,20 @@ Al crear un nuevo proyecto paquete, la estructura de archivos y directorios prop
 {% code title="Scaffolding" %}
 ```
 ├── .compiler
+│   └── default.config.js
 ├── build
 ├── libs
 ├── src
-│   ├── components
+│   └── components
 ├── autoload.js
 └── .package-project
 ```
 {% endcode %}
+
+1. **.compiler:** Carpeta destinada a contener los archivos creados para un perfil de compilación. Los perfiles de compilación se pueden crear haciendo clic en el botón **New** de la barra de herramientas **Project** y seleccionando el tipo de perfil a crear en la lista de menú de archivos. Por defecto se creara un perfil con las configuraciones basicas para compilar el paquete.
+2. **build: C**arpeta destinada a almacenar el bundle generado por el proceso de compilacion.
+3. **libs:** Carpeta contenedora de las bibliotecas y/o dependencias externas utilizadas en el proyecto.
+4. **src:** Carpeta que generalmente contiene el código fuente del proyecto. Puede contener las siguientes subcarpetas:
+   * **components:** Carpeta destinada a contener los componentes que se registraran en el IDE.
+5. **autoload.js:** Archivo usado por el IDE para hacer la carga del paquete cuando esta activado.
+6. **.package-project:** Archivo principal del proyecto. Su contenido interno es presentado en formato XML, conteniendo informacion sobre el proyecto tales como nombre, tipo y ruta del indice fachada, así como los [Perfiles de Compilación](https://emphaxy.gitbook.io/chemisweb-studio-docs/projects/files/compiler-profiles) creados. Tambien puede contener declaraciones de clausulas de importacion de recursos.
