@@ -10,7 +10,7 @@ Un Proyecto Front-End representa una entidad organizativa que abarca el desarrol
 4. Haga clic en el botón **Create**.
 
 {% hint style="info" %}
-Una vez completado el paso anterior, su proyecto habra sido creado satisfactoriamente. Posteriormente, se muestrara de forma automatica el dialogo de creacion de Paginas HTML para continuar con la creacion de la primera pagina de su proyecto si asi lo desea. Vease el **articulo Files / New HTML Page....**
+Una vez completado el paso anterior, su proyecto habra sido creado satisfactoriamente. Posteriormente, se mostrara de forma automatica el dialogo de creacion de Paginas HTML para continuar con la creacion de la primera pagina de su proyecto si asi lo desea. Vease el **articulo Files / New HTML Page....**
 {% endhint %}
 
 <div align="left">
