@@ -24,6 +24,6 @@ Para **crear**, **abrir**, **cerrar** o **eliminar** un proyecto, abra el menú 
 [front-end-project.md](front-end-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="package-projects.md" %}
-[package-projects.md](package-projects.md)
+{% content-ref url="package-projects/" %}
+[package-projects](package-projects/)
 {% endcontent-ref %}

@@ -35,7 +35,8 @@
 
 * [Overview](projects/overview.md)
 * [Front-End Project](projects/front-end-project.md)
-* [Package Projects](projects/package-projects.md)
+* [Package Projects](projects/package-projects/README.md)
+  * [Components](projects/package-projects/components.md)
 * [Files](projects/files/README.md)
   * [HTML Page](projects/files/html-page.md)
   * [Stylesheets](projects/files/stylesheets.md)
