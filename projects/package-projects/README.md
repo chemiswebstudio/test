@@ -21,7 +21,9 @@ Al crear un nuevo proyecto paquete, la estructura de archivos y directorios prop
 ├── build
 ├── libs
 ├── src
-│   └── components
+│   ├── components
+│   │   └── MyComponent.js
+│   └── MyFirstPackage.js
 ├── autoload.js
 └── .package-project
 ```
