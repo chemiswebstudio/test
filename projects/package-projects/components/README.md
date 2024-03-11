@@ -1,6 +1,6 @@
 # Components
 
-Los componetes de un paquete definen plantillas y funcionalidades que seran interpretadas por el IDE. Los mismo son registrados en el Administrador de Componentes para su posterior uso en los proyectos Front-End
+Los componetes de un paquete definen plantillas y funcionalidades que seran interpretadas por el IDE, y son registrados en el Administrador de Componentes para su posterior uso en los proyectos Front-End.
 
 ## Puntos a tener en cuenta para la creacion de un componente
 
@@ -13,8 +13,9 @@ Los componetes de un paquete definen plantillas y funcionalidades que seran inte
 * **Renderizado:** El metodo `html()` de un componente es usado para definir y renderizar la plantilla del componente.
 * **Exportacion de la clase:** Exporta el nombre de la clase del componente para su posterior importacion y registro en el archivo principal del paquete.
 
-## Ejemplo de un componente
+## Ejemplo basico de un componente
 
+{% code fullWidth="false" %}
 ```javascript
 
 import * as core from "/@studio/core.js"
@@ -41,3 +42,4 @@ export {
 }
 
 ```
+{% endcode %}
