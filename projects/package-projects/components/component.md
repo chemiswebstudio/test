@@ -14,14 +14,16 @@ const { component } = decorators()
 
 ```javascript
 @component(querySelector, palettePath, params)
-class YourComponent {
+class YourComponent extends Component {
     // Component implementation
 }
 ```
 
 ## Parameters
 
-<table data-header-hidden><thead><tr><th width="258"></th><th></th></tr></thead><tbody><tr><td>querySelector</td><td><p>string</p><p>The CSS query selector for the component.</p></td></tr><tr><td>palettePath</td><td><p>string</p><p>The path to the palette for the component.</p></td></tr><tr><td>params</td><td><p>object</p><p>Additional parameters for the component.</p></td></tr></tbody></table>
+* `querySelector` (string): The CSS query selector for the component.
+* `palettePath` (string): The path to the palette for the component.
+* `params` (object): Additional parameters for the component.
 
 ## Example
 
@@ -39,7 +41,7 @@ class YourComponent {
         `
     }
 )
-class MyComponent {
+class MyComponent extends Component {
     // Component implementation
 }
 ```
