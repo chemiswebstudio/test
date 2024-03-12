@@ -42,6 +42,7 @@
     * [@slot](projects/package-projects/components/slot.md)
     * [@attributes](projects/package-projects/components/attributes.md)
     * [@events](projects/package-projects/components/events.md)
+  * [Dialogs](projects/package-projects/dialogs.md)
   * [Import clauses](projects/package-projects/import-clauses.md)
 * [Files](projects/files/README.md)
   * [HTML Page](projects/files/html-page.md)

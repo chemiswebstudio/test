@@ -41,7 +41,7 @@ class YourComponent extends Component {
         `
     }
 )
-class MyComponent extends Component {
+class QButton extends Component {
     // Component implementation
 }
 ```

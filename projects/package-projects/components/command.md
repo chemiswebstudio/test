@@ -17,6 +17,9 @@ class YourComponent extends Component {
     // Component implementation
     
     @command(settings)
+    method() {
+        // ...
+    }
 }
 ```
 
